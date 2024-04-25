@@ -69,9 +69,7 @@ margin-top: 30px;
 transition: 0.5s;
 cursor: pointer;
 height: 393px;
-@media screen {orientation: portrait; width: 50px;
-    height: 25px;
-    
+
 }
     
 }
