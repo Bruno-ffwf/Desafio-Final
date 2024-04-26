@@ -83,6 +83,12 @@ height: 393px;
 display: inline-flexbox;
 }
 
+@media (max-width: 480px) {
+    .secmain{
+        flex-direction: column;
+    }
+}
+
 .div2{
     margin-top: 20px;
 }
